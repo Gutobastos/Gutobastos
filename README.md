@@ -1,9 +1,8 @@
 ## Olá / Hi there 👋
 
 <div>
-**Fabricio Bastos / Gutobastos** is a ✨ _special_ ✨
-
-
+<h1>**Fabricio Bastos / Gutobastos** is a ✨ _special_ ✨</h1>
+<p>
 <p>Aqui tem alguns estudos, projetos e idéias:</p>
 <p>Here are some ideas to get you started:</p>
 
