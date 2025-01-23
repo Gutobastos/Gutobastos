@@ -4,8 +4,8 @@
 **Fabricio Bastos / Gutobastos** is a ✨ _special_ ✨
 
 
-Aqui tem alguns estudos, projetos e idéias:
-Here are some ideas to get you started:
+<p>Aqui tem alguns estudos, projetos e idéias:</p>
+<p>Here are some ideas to get you started:</p>
 
 - 🔭 I’m currently working on <GNET Serviços Tecnologicos - Administrador de Redes>
 - 🌱 I’m currently learning (Javascript e Python)
